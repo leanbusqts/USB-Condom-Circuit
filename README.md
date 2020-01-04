@@ -1,5 +1,5 @@
 # USB-Condom-Circuit
 
-Circuito en Eagle, de protección de carga USB. 
+Circuito en Autodesk Eagle, de protección de carga USB. 
 
-Eagle circuit, USB charging protection.
+Autodesk Eagle circuit, USB charging protection.
